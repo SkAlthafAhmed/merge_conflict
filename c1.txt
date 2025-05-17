@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this is c1.txt
 created in remote repo
+=======
+this c1.txt 
+created in local repo
+>>>>>>> fb
